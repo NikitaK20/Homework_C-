@@ -1,0 +1,7 @@
+C:\Users\User\GeekBrains_Homeworks\Homework_2_Kalugin\Homework_2_Kalugin\bin\Debug\Homework_2_Kalugin.exe.config
+C:\Users\User\GeekBrains_Homeworks\Homework_2_Kalugin\Homework_2_Kalugin\bin\Debug\Homework_2_Kalugin.exe
+C:\Users\User\GeekBrains_Homeworks\Homework_2_Kalugin\Homework_2_Kalugin\bin\Debug\Homework_2_Kalugin.pdb
+C:\Users\User\GeekBrains_Homeworks\Homework_2_Kalugin\Homework_2_Kalugin\obj\Debug\Homework_2_Kalugin.csprojAssemblyReference.cache
+C:\Users\User\GeekBrains_Homeworks\Homework_2_Kalugin\Homework_2_Kalugin\obj\Debug\Homework_2_Kalugin.csproj.CoreCompileInputs.cache
+C:\Users\User\GeekBrains_Homeworks\Homework_2_Kalugin\Homework_2_Kalugin\obj\Debug\Homework_2_Kalugin.exe
+C:\Users\User\GeekBrains_Homeworks\Homework_2_Kalugin\Homework_2_Kalugin\obj\Debug\Homework_2_Kalugin.pdb

@@ -1,0 +1,7 @@
+C:\Users\nikit\source\repos\lesson_4\lesson_4\bin\Debug\lesson_4.exe.config
+C:\Users\nikit\source\repos\lesson_4\lesson_4\bin\Debug\lesson_4.exe
+C:\Users\nikit\source\repos\lesson_4\lesson_4\bin\Debug\lesson_4.pdb
+C:\Users\nikit\source\repos\lesson_4\lesson_4\obj\Debug\lesson_4.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\lesson_4\lesson_4\obj\Debug\lesson_4.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\lesson_4\lesson_4\obj\Debug\lesson_4.exe
+C:\Users\nikit\source\repos\lesson_4\lesson_4\obj\Debug\lesson_4.pdb
